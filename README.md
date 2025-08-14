@@ -1,6 +1,4 @@
-🛳️ PRODIGY_DS_02 – Titanic Dataset Analysis (Power BI)
-📌 Internship Task 02 – Titanic EDA with Power BI
-As part of my internship with Prodigy Infotech, I performed Exploratory Data Analysis (EDA) on the famous Titanic dataset using Power BI. This task was focused on understanding the passenger data and visualizing survival patterns using interactive dashboards.
+🛳️ Titanic Dataset Analysis (Power BI)
 
 📊 Objectives:
 Clean and preprocess the Titanic dataset.
@@ -41,6 +39,3 @@ Most passengers embarked from Southampton.
 Microsoft Power BI
 
 Kaggle Titanic Dataset (CSV)
-
-🙏 Acknowledgment:
-Thanks to Prodigy Infotech for this opportunity. This task enhanced my ability to turn raw data into meaningful insights using Power BI.
